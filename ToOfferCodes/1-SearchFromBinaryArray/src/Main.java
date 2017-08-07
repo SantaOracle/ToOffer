@@ -5,10 +5,16 @@
  *  成一个函数，输入这样的一个二维数组和一个整数，判断数组
  *  中是否含有该整数。
  * Created by Administrator on 2017/7/8.
+ * Status: Done
  */
 public class Main {
 
     public static void main(String[] args) {
+        int array[][] = {{1,3},{2,4},{6,8}};
+        Solution solution = new Solution();
+
+        System.out.println(solution.Find(6, array));
+
 
     }
 }
