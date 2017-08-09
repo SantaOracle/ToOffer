@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/2-ReplaceSpace/2-ReplaceSpace.iml" filepath="$PROJECT_DIR$/2-ReplaceSpace/2-ReplaceSpace.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-printListFromTailToHead/3-printListFromTailToHead.iml" filepath="$PROJECT_DIR$/3-printListFromTailToHead/3-printListFromTailToHead.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-reConstructBinaryTree/4-reConstructBinaryTree.iml" filepath="$PROJECT_DIR$/4-reConstructBinaryTree/4-reConstructBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" filepath="$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-minNumberInRotateArray/6-minNumberInRotateArray.iml" filepath="$PROJECT_DIR$/6-minNumberInRotateArray/6-minNumberInRotateArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToOfferCodes.iml" filepath="$PROJECT_DIR$/ToOfferCodes.iml" />
     </modules>
   </component>
