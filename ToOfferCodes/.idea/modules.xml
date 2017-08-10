@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" filepath="$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/6-minNumberInRotateArray/6-minNumberInRotateArray.iml" filepath="$PROJECT_DIR$/6-minNumberInRotateArray/6-minNumberInRotateArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/7-Fibonacci/7-Fibonacci.iml" filepath="$PROJECT_DIR$/7-Fibonacci/7-Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-JumpFloor/8-JumpFloor.iml" filepath="$PROJECT_DIR$/8-JumpFloor/8-JumpFloor.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToOfferCodes.iml" filepath="$PROJECT_DIR$/ToOfferCodes.iml" />
     </modules>
   </component>
