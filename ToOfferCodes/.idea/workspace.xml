@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4933f5e1-1b29-4901-abf8-252abdd8abbf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-NumberOf1/11-NumberOf1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-NumberOf1/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-NumberOf1/src/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-Power/12-Power.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-Power/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-Power/src/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -22,21 +22,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11-NumberOf1/src/Main.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12-Power/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="210">
+              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11-NumberOf1/src/Solution.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12-Power/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="60" />
+            <state relative-caret-position="41">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -90,6 +90,8 @@
         <option value="$PROJECT_DIR$/10-RectCover/src/Main.java" />
         <option value="$PROJECT_DIR$/11-NumberOf1/src/Solution.java" />
         <option value="$PROJECT_DIR$/11-NumberOf1/src/Main.java" />
+        <option value="$PROJECT_DIR$/12-Power/src/Solution.java" />
+        <option value="$PROJECT_DIR$/12-Power/src/Main.java" />
       </list>
     </option>
   </component>
@@ -153,7 +155,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="11-NumberOf1" />
+              <option name="myItemId" value="12-Power" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,7 +169,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="11-NumberOf1" />
+              <option name="myItemId" value="12-Power" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -189,21 +191,7 @@
     <property name="SearchEverywhereHistoryKey" value="Hashmap&#9;FILE&#9;jar://H:/jdk_jar/jdk1.8/src.zip!/java/util/HashMap.java&#10;equals&#9;PSI&#9;JAVA://java.lang.Object#equals&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;collection&#9;PSI&#9;JAVA://java.util.Collection" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DesignPattern" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="7-Fibonacci" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="VM_PARAMETERS" />
@@ -257,6 +245,20 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="11-NumberOf1" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="12-Power" />
       <envs />
       <method />
     </configuration>
@@ -418,19 +420,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (4)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (5)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -496,7 +498,8 @@
     <MESSAGE value="剑指OFFER第八题，完成" />
     <MESSAGE value="剑指OFFER第九题，完成" />
     <MESSAGE value="剑指OFFER第十题，完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER第十题，完成" />
+    <MESSAGE value="剑指OFFER第十一题，完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER第十一题，完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,21 +508,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/9-JumpFloorII/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-minNumberInRotateArray/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://H:/jdk_jar/jdk1.8/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4800">
@@ -858,7 +846,7 @@
     <entry file="file://$PROJECT_DIR$/11-NumberOf1/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="60" />
+          <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -867,6 +855,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Power/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Power/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
