@@ -10,7 +10,7 @@ public class Solution {
         ArrayList<Integer> evenList = new ArrayList(array.length);
 
         for (int i : array){
-            if (i%2 == 0){
+            if ((i&1) == 0){
                 evenList.add(i);
             }else{
                 oddList.add(i);

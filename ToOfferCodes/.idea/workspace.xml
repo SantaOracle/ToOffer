@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4933f5e1-1b29-4901-abf8-252abdd8abbf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-ReOrderArray/13-ReOrderArray.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-ReOrderArray/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-ReOrderArray/src/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="4933f5e1-1b29-4901-abf8-252abdd8abbf" name="Default" comment="剑指OFFER第十三题，使用 i&amp;1 == 0">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13-ReOrderArray/src/Main.java" afterPath="$PROJECT_DIR$/13-ReOrderArray/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13-ReOrderArray/src/Solution.java" afterPath="$PROJECT_DIR$/13-ReOrderArray/src/Solution.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,21 +20,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13-ReOrderArray/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/13-ReOrderArray/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="360">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -504,7 +502,8 @@
     <MESSAGE value="剑指OFFER第十题，完成" />
     <MESSAGE value="剑指OFFER第十一题，完成" />
     <MESSAGE value="剑指OFFER第十二题，完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER第十二题，完成" />
+    <MESSAGE value="剑指OFFER第十三题，完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER第十三题，完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -859,21 +858,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13-ReOrderArray/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/13-ReOrderArray/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13-ReOrderArray/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/13-ReOrderArray/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
