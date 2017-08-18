@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/20-minStack/20-minStack.iml" filepath="$PROJECT_DIR$/20-minStack/20-minStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-IsPreOrder/21-IsPreOrder.iml" filepath="$PROJECT_DIR$/21-IsPreOrder/21-IsPreOrder.iml" />
       <module fileurl="file://$PROJECT_DIR$/22-PrintFromTopToBottom/22-PrintFromTopToBottom.iml" filepath="$PROJECT_DIR$/22-PrintFromTopToBottom/22-PrintFromTopToBottom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-VerifySquenceOfBST/23-VerifySquenceOfBST.iml" filepath="$PROJECT_DIR$/23-VerifySquenceOfBST/23-VerifySquenceOfBST.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-printListFromTailToHead/3-printListFromTailToHead.iml" filepath="$PROJECT_DIR$/3-printListFromTailToHead/3-printListFromTailToHead.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-reConstructBinaryTree/4-reConstructBinaryTree.iml" filepath="$PROJECT_DIR$/4-reConstructBinaryTree/4-reConstructBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" filepath="$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" />
