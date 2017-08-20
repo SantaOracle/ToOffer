@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/23-VerifySquenceOfBST/23-VerifySquenceOfBST.iml" filepath="$PROJECT_DIR$/23-VerifySquenceOfBST/23-VerifySquenceOfBST.iml" />
       <module fileurl="file://$PROJECT_DIR$/24-FindPath/24-FindPath.iml" filepath="$PROJECT_DIR$/24-FindPath/24-FindPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/25-Clone/25-Clone.iml" filepath="$PROJECT_DIR$/25-Clone/25-Clone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-Convert/26-Convert.iml" filepath="$PROJECT_DIR$/26-Convert/26-Convert.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-printListFromTailToHead/3-printListFromTailToHead.iml" filepath="$PROJECT_DIR$/3-printListFromTailToHead/3-printListFromTailToHead.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-reConstructBinaryTree/4-reConstructBinaryTree.iml" filepath="$PROJECT_DIR$/4-reConstructBinaryTree/4-reConstructBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" filepath="$PROJECT_DIR$/5-StackForQueue/5-StackForQueue.iml" />
