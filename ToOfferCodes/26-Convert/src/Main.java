@@ -6,6 +6,8 @@
  */
 public class Main {
     public static void main(String[] args) {
+        System.out.println("start");
+
         Solution s = new Solution();
         TreeNode n1 = new TreeNode(7);
         TreeNode n2 = new TreeNode(4);
